@@ -9,7 +9,7 @@
 
 ## Summary of Findings
 
-> I was interested in the popularity of the program and what variables might show correlation with usage, and the first bar chart showed that subscribers took more trips than customers.  I  then made bar charts and a histogram showing the number of trips taken from each station in the study, which showed substantial variation and a sharp drop-off from the most popular stations to the rest of the dataset.  Based on box plots that were cut off and a scatterplot that was jittered to accurately show a large number of data points, more popular stations to leave from typically showed shorter trip lengths.  The lat-long graph with a colorbar showing number of trips aided comparison of bike-share usage by station placement.
+> I was interested in the popularity of the program and what variables might show correlation with usage.  Initially I needed to know the level of involvement of the users, and the first bar chart showed that subscribers took more trips than pay-each-ride customers.  I  then made bar charts and a histogram showing the number of trips taken from each station in the study, which showed substantial variation and a sharp drop-off from the most popular stations to the rest of the dataset.  Based on box plots that were cut off and a scatterplot that was jittered to accurately show a large number of data points, more popular stations to leave from typically showed shorter trip lengths.  The lat-long graph with a colorbar showing number of trips aided comparison of bike-share usage by station placement.
 
 
 ## Key Insights for Presentation
