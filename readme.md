@@ -1,5 +1,5 @@
 # Exploration of 2018 Trip Data for the San Francisco Bay Area Bike-Sharing System
-## by Ellen Craig
+## by E.J. Craig
 
 
 ## Dataset
